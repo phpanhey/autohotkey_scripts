@@ -14,5 +14,6 @@ Return
   Send ^v
 return
 
-; make a lorem hotstring
-::lorem::Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dignissim nulla ac mi consectetur, nec venenatis urna iaculis. Integer posuere leo in mi ultricies, nec rutrum metus congue. Nullam ullamcorper, felis vel mattis finibus, ipsum lectus posuere ligula, vitae pellentesque neque enim eget purus. Donec semper erat vel purus malesuada, eu ullamcorper justo volutpat. Sed id tincidunt quam. Nunc iaculis leo nec aliquam cursus. Suspendisse rhoncus maximus ultrices. Aliquam sit amet odio est.::
+::lorem::
+SendInput Lorem ipsum dolor sit amet, ad his essent accusata eloquentiam. Vis et utinam conceptam. In vix impedit intellegebat, quis appetere splendide an duo, ei congue expetendis eum. Saepe eligendi cum eu. Vel mediocrem efficiendi voluptatibus ne, est appellantur reprehendunt ea. {Enter}Nec no eloquentiam instructior voluptatibus. Modo mucius vis id. Tota indoctum pri ut, te mel inermis partiendo, sit corrumpit appellantur ex. Amet sapientem quo id. Vis hinc malorum fabulas no.
+return
