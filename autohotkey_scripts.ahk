@@ -19,6 +19,6 @@ SendInput Lorem ipsum dolor sit amet, ad his essent accusata eloquentiam. Vis et
 return
 
 ; run powershellin workspace
-^y<:: ; CTRL+y open powershel
+^y:: ; CTRL+y open powershel
     Run, powershell.exe -noexit -command "cd 'C:\workspace'"  
 return
